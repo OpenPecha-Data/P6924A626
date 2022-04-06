@@ -1,0 +1,38 @@
+id: P6924A626
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1986
+  instance_id: http://purl.bdrc.io/resource/IE1KG13760
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། དབྱངས་ཅན་དགའ་བའི་བློ་གྲོས། ༼གློག་ཀླད་པར་མ།༽
+  alt_title:
+    zh-hans:
+    - 阿嘉 雍曾洛桑董智文集
+  author: http://purl.bdrc.io/resource/P166
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    d9ac5c88f40044e198f1b525efec607e:
+      title: པོད ༢་གསུང་འབུམ། དབྱངས་ཅན་དགའ་བའི་བློ་གྲོས། ༼གློག་ཀླད་པར་མ།༽
+      volume_number: 2
+      base_file: UT1KG13760_I1KG15443_0000.txt
+      reference: http://purl.bdrc.io/resource/VL097AB5B3AB8DD9B3
+      image_group: I1KG15443
+      quality: Low
+    862124de7e564e788141885b726c6524:
+      title: པོད ༡་གསུང་འབུམ། དབྱངས་ཅན་དགའ་བའི་བློ་གྲོས། ༼གློག་ཀླད་པར་མ།༽
+      volume_number: 1
+      base_file: UT1KG13760_I1KG15442_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7320A8CBD9ECB8C8
+      image_group: I1KG15442
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG13760
+  - http://purl.bdrc.io/resource/MW1KG13760
+  ocr_software: Namsel
+created_at: '2021-12-22T10:33:54.818674'
+last_modified_at: '2021-12-22T10:33:54.818683'
